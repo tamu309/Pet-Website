@@ -1,0 +1,29 @@
+#NavProductDiv{
+    width:52rem ;
+
+}
+h5{
+    padding-left: 28px;
+}
+
+#PositionabsoluteDiv{
+    padding-left: 420px;
+    padding-top: 100px;
+}
+
+@media screen and (max-width:576px){
+    #NavProductDiv{
+        width: 200px;
+    }
+    .col{
+        width: 280px;
+    }
+
+    #PositionabsoluteDiv{
+        padding-left: 0px;
+        padding-top: 10px;
+    }
+    #Contactimg{
+        height: 500px;
+    }
+}
